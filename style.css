@@ -2,10 +2,10 @@ body{
     background-image: linear-gradient(#F3D184, #E5B3B6,#DA9FD6,#D591C4,#DC9A92,#E9B368);
 }
 .box1{
-    width: 900px;
+    width: 700px;
     height: 890px;
     background-color: #F3D184;
-    margin-right: -95px;
+    margin-right: -195px;
     border-bottom-left-radius: 40px;
     /* border-bottom-right-radius: 40px; */
     /* border-top-right-radius: 40px; */
@@ -15,15 +15,15 @@ body{
 .form{
 display: flex;
 justify-content: space-around;
-margin:  300px; 
+margin:  20px; 
 
 }
 
 .box2{
-    width: 980px;
+    width: 990px;
     height: 890px;
     background-color:#f5f2eb;
-    margin-left: -95px;
+    margin-left: -30%;
     /* border-bottom-left-radius: 40px; */
     border-bottom-right-radius: 40px;
     border-top-right-radius: 40px;
